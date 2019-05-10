@@ -1,0 +1,18 @@
+Salut Xx,
+
+patrick boit de la guiness le jour de la saint patrick
+les carottes sont cuites
+les légumes poussent
+un gentil message warez pour commencer
+
+si tu arrives à lire ce message, c'est que tu as réussi à compiler le bordel
+je vais recompiler aussi sur ouindoze un jour, pour faciliter les échanges entre les 2 mondes ;-)
+
+tu m'avais parlé d'un emballage sexy avec une interface, c'est vrai que la ligne de commande c'est pas très vendeur
+si tu as des idées, et tu temps libre, feel free to re-use the code
+on doit pouvoir aussi améliorer le codage, car on peut trouver une certaine persistence des codes (espace)
+c'est un peu inutile car je pense que c'est incracable sans la clef (la base des transformations n'a pas de bornes)
+ceci dit, dès que le fichier a une certaine taille, l'histogramme s'applatit pour aller de N pour l'échantillon le moins fréquent à 2N pour l'échantillon le plus fréquent
+
+A super +
+
